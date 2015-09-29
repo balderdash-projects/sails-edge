@@ -79,7 +79,7 @@
     "skipperjs/skipper": "~0.5.5",
     "uid-safe": "^1.1.0",
     "walk": "^2.3.9",
-    "waterlinejs/waterline": "latest"
+    "waterline": "waterlinejs/waterline"
   },
   "devDependencies": {
     "root-require": "~0.3.1",
