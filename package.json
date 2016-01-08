@@ -1,7 +1,10 @@
 {
   "name": "@balderdash/sails-edge",
-  "author": "Mike McNeil <@mikermcneil>",
-  "version": "0.12.0-edge2",
+  "author": {
+    "name": "Mike McNeil",
+    "email": "@mikermcneil"
+  },
+  "version": "0.12.0-edge5",
   "description": "API-driven framework for building realtime apps, using MVC conventions (based on Express and Socket.io)",
   "homepage": "http://sailsjs.org",
   "keywords": [
@@ -76,10 +79,10 @@
     "sails-stringfile": "~0.3.2",
     "sails-util": "~0.10.6",
     "semver": "~4.3.3",
-    "skipperjs/skipper": "~0.5.5",
+    "skipper": "github:skipperjs/skipper",
     "uid-safe": "^1.1.0",
     "walk": "^2.3.9",
-    "waterline": "waterlinejs/waterline"
+    "waterline": "github:waterlinejs/waterline"
   },
   "devDependencies": {
     "root-require": "~0.3.1",
