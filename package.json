@@ -4,7 +4,7 @@
     "name": "Mike McNeil",
     "email": "@mikermcneil"
   },
-  "version": "0.12.0-edge7",
+  "version": "0.12.0-edge7a",
   "description": "API-driven framework for building realtime apps, using MVC conventions (based on Express and Socket.io)",
   "homepage": "http://sailsjs.org",
   "keywords": [
