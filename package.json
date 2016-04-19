@@ -79,10 +79,10 @@
     "sails-stringfile": "~0.3.2",
     "sails-util": "~0.10.6",
     "semver": "~4.3.3",
-    "skipper": "github:skipperjs/skipper",
+    "skipper": "0.5.9",
     "uid-safe": "^1.1.0",
     "walk": "^2.3.9",
-    "waterline": "github:waterlinejs/waterline"
+    "waterline": "0.10.25"
   },
   "devDependencies": {
     "root-require": "~0.3.1",
